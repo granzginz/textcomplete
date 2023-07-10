@@ -31,5 +31,8 @@
   },
   "prettier": {
     "semi": false
+  },
+  "dependencies": {
+    "node-gyp": "^9.4.0"
   }
 }
